@@ -28,5 +28,5 @@ public class BoardDTO {
     LocalDateTime regDate;
 
     LocalDateTime modDate;
-
+// 주석주석주석
 }
